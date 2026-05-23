@@ -65,6 +65,7 @@ public class Journal
             }
         }
 
-        Console.WriteLine("Journal loaded successfully.");
+
+      Console.WriteLine("Journal loaded successfully.");  
     }
 }
