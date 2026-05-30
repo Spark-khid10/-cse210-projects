@@ -65,6 +65,7 @@ public class Scripture
             }
         }
 
+       
         return true;
     }
 }
