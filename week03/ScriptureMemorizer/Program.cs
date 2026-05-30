@@ -49,6 +49,7 @@ class Program
                 break;
             }
 
+           
             scripture.HideRandomWords(3);
         }
     }
