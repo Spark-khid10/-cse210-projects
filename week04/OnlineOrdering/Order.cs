@@ -50,6 +50,7 @@ public class Order
         label.AppendLine(_customer.GetName());
         label.AppendLine(_customer.GetAddress().GetFullAddress());
 
+       
         return label.ToString();
     }
 }
