@@ -25,6 +25,8 @@ class Program
         Console.WriteLine($"Total Price: ${order1.GetTotalCost():F2}");
         Console.WriteLine();
 
+        
+
         Console.WriteLine("ORDER 2");
         Console.WriteLine(order2.GetPackingLabel());
         Console.WriteLine(order2.GetShippingLabel());
