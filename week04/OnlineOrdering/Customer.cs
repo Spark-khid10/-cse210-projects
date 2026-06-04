@@ -21,6 +21,7 @@ public class Customer
 
     public bool LivesInUSA()
     {
+        
         return _address.IsInUSA();
     }
 }
