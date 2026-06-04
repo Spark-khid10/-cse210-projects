@@ -25,6 +25,7 @@ public class Product
 
     public double GetTotalCost()
     {
+        
         return _price * _quantity;
     }
 }
